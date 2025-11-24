@@ -43,6 +43,7 @@ This is a **multi-port power strip (also called a surge protector or travel adap
 - **Build and Design**: Lightweight plastic body with a flexible cord. The 110-250V input range makes it "universal" for global travel (works in US 110V or Europe/Asia 220-240V). Compact for portability, but not ruggedized for extreme conditions.
 
 #### Technical Specs Summary:
+
 | Feature | Details |
 |---------|---------|
 | **Input Voltage** | 100-250V AC, 50/60Hz |
@@ -83,7 +84,7 @@ I previously wrote “1100–2500 W” as a rough range, which is close enough f
 
 So the correct wattage range is:
 
-**Maximum load: 1,200 W @ 120 V | 2,400–2,500 W @ 220–250 V**
+**Maximum load: 1,200 W @ 120 V** | **2,400–2,500 W @ 220–250 V**       
 
 Thanks for keeping me accurate! 🙌
 
