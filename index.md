@@ -89,4 +89,35 @@ So the correct wattage range is:
 Thanks for keeping me accurate! 🙌
 
 # C
-Coming Soon..
+A 2,400 W load is fairly high for typical household devices. To put it in perspective:
+
+* **High-wattage appliances**:
+
+  * Space heaters: 1,500–2,500 W
+  * Hair dryers: 1,200–2,000 W
+  * Microwave ovens: 800–1,500 W (but some commercial ones can reach ~2,000 W)
+  * Electric kettles: 1,500–3,000 W
+  * Toasters or toaster ovens: 1,200–1,800 W
+
+* **Large kitchen appliances**:
+
+  * Coffee makers: 1,000–1,500 W
+  * Rice cookers: 300–700 W (much lower)
+
+* **Other devices**:
+
+  * Clothes irons: 1,200–2,400 W
+  * Hair straighteners / curling irons: 100–250 W each, but combined could matter
+
+So basically, anything like a **high-power heater, oven, or kettle** could approach or exceed 2,400 W.
+
+For a power strip rated at **10 A, 220–240 V (~2,400 W)**, it can technically handle one of these at a time, but **you wouldn’t want to plug multiple high-wattage appliances into it simultaneously**. That’s why budget travel strips with surge protection are usually meant for **phones, laptops, and low-power devices**, not heaters or hair dryers.
+
+
+---
+
+A good rule of thumb for distributing load: if the strip’s total capacity is ~2,400–2,500 W and it has five outlets, then averaging ~500 W per outlet keeps you safely under the maximum.
+
+Just keep in mind: it’s **total combined load** that matters. You could plug in one 1,200 W device and four 100 W devices, and you’d still be under the 2,400 W limit, so not every outlet has to be exactly 500 W—it’s just a convenient average guideline.
+
+
